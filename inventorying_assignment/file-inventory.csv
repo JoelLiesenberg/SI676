@@ -1,0 +1,23 @@
+index,path,filename,extension,size,modify_datetime,md5hash
+1,data/webfiles-samples/web-files-small-metadata.csv,web-files-small-metadata.csv,.csv,9069,2023-10-23T10:03:46,8b82804b255dbc9e049857ddce66aaf2
+2,data/webfiles-samples/video/vlwhcssc.asx,vlwhcssc.asx,.asx,356,2023-10-23T10:03:46,c4af1d1687ff8f1a2f027bb04eec471b
+3,data/webfiles-samples/video/04-04-21full.asf,04-04-21full.asf,.asf,98,2023-10-23T10:03:46,26888193625f2011edcea74b12d1b8bb
+4,data/webfiles-samples/video/glmp_cig.EQ.wm.p20.t12z,glmp_cig.EQ.wm.p20.t12z,.t12z,8296,2023-10-23T10:03:46,4b176dbcf901676ab7c9cd8e739d1b3b
+5,data/webfiles-samples/video/oct17cc.asx,oct17cc.asx,.asx,106945,2023-10-23T10:03:46,50727117109742107c6bef3e31ff1690
+6,data/webfiles-samples/pdf/01-1480.pdf,01-1480.pdf,.pdf,49088,2023-10-23T10:03:46,01c8ed0f4635e7974734087ffec0087d
+7,data/webfiles-samples/pdf/file.pdf,file.pdf,.pdf,1538,2023-10-23T10:03:46,b76bb219e68469283095b12a0b6aef2c
+8,data/webfiles-samples/pdf/Chapter03.pdf,Chapter03.pdf,.pdf,51919,2023-10-23T10:03:46,b4c4ac3b610fc0057ef57acaace0c78a
+9,data/webfiles-samples/pdf/PFCHEJ.pdf,PFCHEJ.pdf,.pdf,10577,2023-10-23T10:03:46,fec5b4c417432aa2de0a482186f3d9d5
+10,data/webfiles-samples/pdf/HR2021 commtext.pdf,HR2021 commtext.pdf,.pdf,36305,2023-10-23T10:03:46,1de98a2344bec62c650f8adb4b8f33e0
+11,data/webfiles-samples/image/13080t.jpg,13080t.jpg,.jpg,3764,2023-10-23T10:03:46,761b75f922ba4d5336c686d64762bd9d
+12,data/webfiles-samples/image/orca.via_.moc_.noaa_.jpg,orca.via_.moc_.noaa_.jpg,.jpg,82546,2023-10-23T10:03:46,8dcb7f9f0b452054e79b0d3d6736d782
+13,data/webfiles-samples/image/k7989-7x.jpg,k7989-7x.jpg,.jpg,7864,2023-10-23T10:03:46,3999ce5979decabcb81adcb969b8249a
+14,data/webfiles-samples/image/m237a2f.gif,m237a2f.gif,.gif,7376,2023-10-23T10:03:46,1fe4be82b1896108055b183c384c1f07
+15,data/webfiles-samples/image/1005107061.tif,1005107061.tif,.tif,395734,2023-10-23T10:03:46,71a29e5cb072bd100d945298e78abde5
+16,data/webfiles-samples/audio/11-3250JohnsonvFolinoEtAl.wma,11-3250JohnsonvFolinoEtAl.wma,.wma,21423499,2023-10-23T10:03:46,0822287ef2af6e97ead980c771bb8f97
+17,data/webfiles-samples/audio/NEWSLINE_802AF71F439D401585C6FCB02F358307.mp3,NEWSLINE_802AF71F439D401585C6FCB02F358307.mp3,.mp3,961195,2023-10-23T10:03:46,ad49bb75ecd85c86d8d4a2b418ce83cf
+18,data/webfiles-samples/audio/mj_telework_exchange_final_100710.mp3,mj_telework_exchange_final_100710.mp3,.mp3,3471488,2023-10-23T10:03:46,0253b2c7820143b28f4b1febaece205d
+19,data/webfiles-samples/audio/000727.ram,000727.ram,.ram,79,2023-10-23T10:03:45,807f4a33e2198c1dd629c8902c37c535
+20,data/webfiles-samples/presentation/BudgetandGrants012710.ppt,BudgetandGrants012710.ppt,.ppt,85504,2023-10-23T10:03:46,4080ec664a2b4b14fec1826c42ccc3a3
+21,data/webfiles-samples/presentation/ADAEMPLOYMENTTaxIncentives.ppt,ADAEMPLOYMENTTaxIncentives.ppt,.ppt,137216,2023-10-23T10:03:46,f614356ebb35fa76d482709372237bd5
+22,data/webfiles-samples/presentation/Non-FTE-Trainee-Activities-060109.ppt,Non-FTE-Trainee-Activities-060109.ppt,.ppt,67072,2023-10-23T10:03:46,e71a83494f2565ee5168b7dc3d4de306
