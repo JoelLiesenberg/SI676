@@ -1,0 +1,889 @@
+<?xml version='1.0' encoding='utf-8'?>
+<modsCollection xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<mods:mods version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"><mods:identifier type="call_number" updated="yes">lcwaN0010234</mods:identifier><mods:identifier invalid="yes" type="database id">85999</mods:identifier><mods:identifier invalid="yes" type="database id">109353</mods:identifier><mods:titleInfo><mods:title>Slate Magazine</mods:title></mods:titleInfo><mods:language><mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm></mods:language><mods:physicalDescription><mods:form authority="marcform">electronic</mods:form><mods:internetMediaType>text/html</mods:internetMediaType><mods:digitalOrigin>born digital</mods:digitalOrigin></mods:physicalDescription><mods:targetAudience>general</mods:targetAudience><mods:typeOfResource>text</mods:typeOfResource><mods:genre authority="marcgt">web site</mods:genre><mods:originInfo><mods:place><mods:placeTerm type="text">United States</mods:placeTerm></mods:place></mods:originInfo><mods:abstract /><mods:relatedItem type="host"><mods:titleInfo><mods:title>General News on the Internet Web Archive</mods:title></mods:titleInfo></mods:relatedItem><mods:relatedItem type="host"><mods:titleInfo><mods:title>Serial and Government Publications Division</mods:title></mods:titleInfo></mods:relatedItem><mods:relatedItem displayLabel="URL" type="constituent"><mods:identifier displayLabel="Access URL" type="uri">http://www.slate.com/</mods:identifier><mods:identifier type="database id">15046</mods:identifier><mods:location><mods:url displayLabel="thumbnail image">http://cdn.loc.gov/service/webcapture/project_1/thumbnails/lcwaS0015046.jpg</mods:url></mods:location><mods:part type="scope"><mods:text displayLabel="domain">http://slate.com</mods:text><mods:text displayLabel="domain">http://twitter.com/slate</mods:text><mods:text displayLabel="domain">http://www.facebook.com/Slate</mods:text><mods:text displayLabel="domain">http://www.instagram.com/slate</mods:text></mods:part></mods:relatedItem><mods:location><mods:url displayLabel="Archived site">http://www.loc.gov/item/lcwaN0010234</mods:url></mods:location><mods:location><mods:physicalLocation>Library of Congress, Washington, D.C., 20540 USA</mods:physicalLocation><mods:physicalLocation authority="marcorg">dlc</mods:physicalLocation></mods:location><mods:accessCondition type="restrictionOnAccess">None</mods:accessCondition><mods:recordInfo><mods:recordContentSource authority="marcorg">dlc</mods:recordContentSource><mods:recordCreationDate encoding="iso8601">20180608</mods:recordCreationDate><mods:recordIdentifier source="dlc">lcwaN0010234</mods:recordIdentifier><mods:languageOfCataloging><mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm></mods:languageOfCataloging></mods:recordInfo></mods:mods>
+<mods:mods version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"><mods:identifier type="call_number" updated="yes">lcwaN0001999</mods:identifier><mods:identifier invalid="yes" type="database id">91224</mods:identifier><mods:identifier invalid="yes" type="database id">109272</mods:identifier><mods:titleInfo><mods:title>Raw Story</mods:title></mods:titleInfo><mods:language><mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm></mods:language><mods:physicalDescription><mods:form authority="marcform">electronic</mods:form><mods:internetMediaType>text/html</mods:internetMediaType><mods:digitalOrigin>born digital</mods:digitalOrigin></mods:physicalDescription><mods:targetAudience>general</mods:targetAudience><mods:typeOfResource>text</mods:typeOfResource><mods:genre authority="marcgt">web site</mods:genre><mods:originInfo><mods:place><mods:placeTerm type="text">United States</mods:placeTerm></mods:place></mods:originInfo><mods:abstract /><mods:relatedItem type="host"><mods:titleInfo><mods:title>General News on the Internet Web Archive</mods:title></mods:titleInfo></mods:relatedItem><mods:relatedItem type="host"><mods:titleInfo><mods:title>Serial and Government Publications Division</mods:title></mods:titleInfo></mods:relatedItem><mods:relatedItem displayLabel="URL" type="constituent"><mods:identifier displayLabel="Access URL" type="uri">http://rawstory.com/</mods:identifier><mods:identifier type="database id">2771</mods:identifier><mods:location><mods:url displayLabel="thumbnail image">http://cdn.loc.gov/service/webcapture/project_1/thumbnails/lcwaS0002771.jpg</mods:url></mods:location><mods:part type="scope"><mods:text displayLabel="domain">http://rawstory.com</mods:text><mods:text displayLabel="domain">http://twitter.com/rawstory</mods:text><mods:text displayLabel="domain">http://plus.google.com/+RawStory/posts</mods:text><mods:text displayLabel="domain">http://www.facebook.com/TheRawStory</mods:text></mods:part></mods:relatedItem><mods:location><mods:url displayLabel="Archived site">http://www.loc.gov/item/lcwaN0001999</mods:url></mods:location><mods:location><mods:physicalLocation>Library of Congress, Washington, D.C., 20540 USA</mods:physicalLocation><mods:physicalLocation authority="marcorg">dlc</mods:physicalLocation></mods:location><mods:accessCondition type="restrictionOnAccess">None</mods:accessCondition><mods:recordInfo><mods:recordContentSource authority="marcorg">dlc</mods:recordContentSource><mods:recordCreationDate encoding="iso8601">20180608</mods:recordCreationDate><mods:recordIdentifier source="dlc">lcwaN0001999</mods:recordIdentifier><mods:languageOfCataloging><mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm></mods:languageOfCataloging></mods:recordInfo></mods:mods>
+<mods:mods version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"><mods:identifier type="call_number" updated="yes">lcwaN0003238</mods:identifier><mods:identifier invalid="yes" type="database id">91275</mods:identifier><mods:identifier invalid="yes" type="database id">109273</mods:identifier><mods:identifier invalid="yes" type="database id">96782</mods:identifier><mods:titleInfo><mods:title>Huffington Post</mods:title></mods:titleInfo><mods:language><mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm></mods:language><mods:physicalDescription><mods:form authority="marcform">electronic</mods:form><mods:internetMediaType>text/html</mods:internetMediaType><mods:digitalOrigin>born digital</mods:digitalOrigin></mods:physicalDescription><mods:targetAudience>general</mods:targetAudience><mods:typeOfResource>text</mods:typeOfResource><mods:genre authority="marcgt">web site</mods:genre><mods:originInfo><mods:place><mods:placeTerm type="text">United States</mods:placeTerm></mods:place></mods:originInfo><mods:abstract /><mods:relatedItem type="host"><mods:titleInfo><mods:title>General News on the Internet Web Archive</mods:title></mods:titleInfo></mods:relatedItem><mods:relatedItem type="host"><mods:titleInfo><mods:title>Serial and Government Publications Division</mods:title></mods:titleInfo></mods:relatedItem><mods:relatedItem displayLabel="URL" type="constituent"><mods:identifier displayLabel="Access URL" type="uri">http://www.huffingtonpost.com/</mods:identifier><mods:identifier type="database id">4619</mods:identifier><mods:location><mods:url displayLabel="thumbnail image">http://cdn.loc.gov/service/webcapture/project_1/thumbnails/lcwaS0004619.jpg</mods:url></mods:location><mods:part type="scope"><mods:text displayLabel="domain">http://huffingtonpost.com</mods:text><mods:text displayLabel="domain">http://twitter.com/huffingtonpost</mods:text><mods:text displayLabel="domain">http://www.facebook.com/HuffingtonPost</mods:text><mods:text displayLabel="domain">http://www.pinterest.com/huffingtonpost/</mods:text><mods:text displayLabel="domain">http://twitter.com/HuffPost</mods:text><mods:text displayLabel="domain">http://www.instagram.com/HuffPost</mods:text><mods:text displayLabel="domain">http://www.facebook.com/HuffPost</mods:text></mods:part></mods:relatedItem><mods:location><mods:url displayLabel="Archived site">http://www.loc.gov/item/lcwaN0003238</mods:url></mods:location><mods:location><mods:physicalLocation>Library of Congress, Washington, D.C., 20540 USA</mods:physicalLocation><mods:physicalLocation authority="marcorg">dlc</mods:physicalLocation></mods:location><mods:accessCondition type="restrictionOnAccess">None</mods:accessCondition><mods:recordInfo><mods:recordContentSource authority="marcorg">dlc</mods:recordContentSource><mods:recordCreationDate encoding="iso8601">20180608</mods:recordCreationDate><mods:recordIdentifier source="dlc">lcwaN0003238</mods:recordIdentifier><mods:languageOfCataloging><mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm></mods:languageOfCataloging></mods:recordInfo></mods:mods>
+<mods:mods version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"><mods:identifier type="call_number" updated="yes">lcwaN0010144</mods:identifier><mods:identifier invalid="yes" type="database id">nan</mods:identifier><mods:titleInfo><mods:title>BuzzFeed</mods:title></mods:titleInfo><mods:language><mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm></mods:language><mods:physicalDescription><mods:form authority="marcform">electronic</mods:form><mods:internetMediaType>text/html</mods:internetMediaType><mods:digitalOrigin>born digital</mods:digitalOrigin></mods:physicalDescription><mods:targetAudience>general</mods:targetAudience><mods:typeOfResource>text</mods:typeOfResource><mods:genre authority="marcgt">web site</mods:genre><mods:originInfo><mods:place><mods:placeTerm type="text">United States</mods:placeTerm></mods:place></mods:originInfo><mods:abstract /><mods:relatedItem type="host"><mods:titleInfo><mods:title>General News on the Internet Web Archive</mods:title></mods:titleInfo></mods:relatedItem><mods:relatedItem type="host"><mods:titleInfo><mods:title>Serial and Government Publications Division</mods:title></mods:titleInfo></mods:relatedItem><mods:relatedItem displayLabel="URL" type="constituent"><mods:identifier displayLabel="Access URL" type="uri">https://medium.com/buzzfeed-collections</mods:identifier><mods:identifier type="database id">24463</mods:identifier><mods:location><mods:url displayLabel="thumbnail image">http://cdn.loc.gov/service/webcapture/project_1/thumbnails/lcwaS0024463.jpg</mods:url></mods:location><mods:part type="scope"><mods:text displayLabel="domain">http://medium.com/buzzfeed-collections</mods:text><mods:text displayLabel="domain">http://twitter.com/BuzzFeedNews</mods:text><mods:text displayLabel="domain">http://facebook.com/buzzfeednews</mods:text></mods:part></mods:relatedItem><mods:relatedItem displayLabel="URL" type="constituent"><mods:identifier displayLabel="Access URL" type="uri">http://www.buzzfeed.com/</mods:identifier><mods:identifier type="database id">14906</mods:identifier><mods:location><mods:url displayLabel="thumbnail image">http://cdn.loc.gov/service/webcapture/project_1/thumbnails/lcwaS0014906.jpg</mods:url></mods:location><mods:part type="scope"><mods:text displayLabel="domain">http://buzzfeed.com</mods:text><mods:text displayLabel="domain">http://twitter.com/buzzfeed</mods:text><mods:text displayLabel="domain">http://facebook.com/buzzfeed</mods:text><mods:text displayLabel="domain">http://pinterest.com/buzzfeed/</mods:text><mods:text displayLabel="domain">http://www.youtube.com/subscription_center?add_user=buzzfeedvideo</mods:text></mods:part></mods:relatedItem><mods:location><mods:url displayLabel="Archived site">http://www.loc.gov/item/lcwaN0010144</mods:url></mods:location><mods:location><mods:physicalLocation>Library of Congress, Washington, D.C., 20540 USA</mods:physicalLocation><mods:physicalLocation authority="marcorg">dlc</mods:physicalLocation></mods:location><mods:accessCondition type="restrictionOnAccess">Access restricted to on-site users</mods:accessCondition><mods:recordInfo><mods:recordContentSource authority="marcorg">dlc</mods:recordContentSource><mods:recordCreationDate encoding="iso8601">20180608</mods:recordCreationDate><mods:recordIdentifier source="dlc">lcwaN0010144</mods:recordIdentifier><mods:languageOfCataloging><mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm></mods:languageOfCataloging></mods:recordInfo></mods:mods>
+<mods:mods version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"><mods:identifier type="call_number" updated="yes">lcwaN0010145</mods:identifier><mods:identifier invalid="yes" type="database id">82949</mods:identifier><mods:identifier invalid="yes" type="database id">109227</mods:identifier><mods:titleInfo><mods:title>Drudge Report</mods:title></mods:titleInfo><mods:language><mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm></mods:language><mods:physicalDescription><mods:form authority="marcform">electronic</mods:form><mods:internetMediaType>text/html</mods:internetMediaType><mods:digitalOrigin>born digital</mods:digitalOrigin></mods:physicalDescription><mods:targetAudience>general</mods:targetAudience><mods:typeOfResource>text</mods:typeOfResource><mods:genre authority="marcgt">web site</mods:genre><mods:originInfo><mods:place><mods:placeTerm type="text">United States</mods:placeTerm></mods:place></mods:originInfo><mods:abstract /><mods:relatedItem type="host"><mods:titleInfo><mods:title>General News on the Internet Web Archive</mods:title></mods:titleInfo></mods:relatedItem><mods:relatedItem type="host"><mods:titleInfo><mods:title>Serial and Government Publications Division</mods:title></mods:titleInfo></mods:relatedItem><mods:relatedItem displayLabel="URL" type="constituent"><mods:identifier displayLabel="Access URL" type="uri">http://www.drudgereport.com/</mods:identifier><mods:identifier type="database id">14951</mods:identifier><mods:location><mods:url displayLabel="thumbnail image">http://cdn.loc.gov/service/webcapture/project_1/thumbnails/lcwaS0014951.jpg</mods:url></mods:location><mods:part type="scope"><mods:text displayLabel="domain">http://drudgereport.com</mods:text><mods:text displayLabel="domain">http://www.drudgereportArchives.com</mods:text></mods:part></mods:relatedItem><mods:location><mods:url displayLabel="Archived site">http://www.loc.gov/item/lcwaN0010145</mods:url></mods:location><mods:location><mods:physicalLocation>Library of Congress, Washington, D.C., 20540 USA</mods:physicalLocation><mods:physicalLocation authority="marcorg">dlc</mods:physicalLocation></mods:location><mods:accessCondition type="restrictionOnAccess">Access restricted to on-site users</mods:accessCondition><mods:recordInfo><mods:recordContentSource authority="marcorg">dlc</mods:recordContentSource><mods:recordCreationDate encoding="iso8601">20180608</mods:recordCreationDate><mods:recordIdentifier source="dlc">lcwaN0010145</mods:recordIdentifier><mods:languageOfCataloging><mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm></mods:languageOfCataloging></mods:recordInfo></mods:mods>
+<mods:mods version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"><mods:identifier type="call_number" updated="yes">lcwaN0012178</mods:identifier><mods:identifier invalid="yes" type="database id">85778</mods:identifier><mods:titleInfo><mods:title>Life in this Girl's Army / New Lives - Blog</mods:title></mods:titleInfo><mods:language><mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm></mods:language><mods:physicalDescription><mods:form authority="marcform">electronic</mods:form><mods:internetMediaType>text/html</mods:internetMediaType><mods:digitalOrigin>born digital</mods:digitalOrigin></mods:physicalDescription><mods:targetAudience>general</mods:targetAudience><mods:typeOfResource>text</mods:typeOfResource><mods:genre authority="marcgt">web site</mods:genre><mods:originInfo><mods:place><mods:placeTerm type="text">United States</mods:placeTerm></mods:place></mods:originInfo><mods:abstract /><mods:relatedItem type="host"><mods:titleInfo><mods:title>Iraq War 2003 Web Archive</mods:title></mods:titleInfo></mods:relatedItem><mods:relatedItem type="host"><mods:titleInfo><mods:title>Research and Reference Services Division</mods:title></mods:titleInfo></mods:relatedItem><mods:relatedItem displayLabel="URL" type="constituent"><mods:identifier displayLabel="Access URL" type="uri">http://sgtlizzie.blogspot.com/</mods:identifier><mods:identifier type="database id">17460</mods:identifier><mods:location><mods:url displayLabel="thumbnail image">http://cdn.loc.gov/service/webcapture/project_1/thumbnails/lcwaS0017460.jpg</mods:url></mods:location></mods:relatedItem><mods:location><mods:url displayLabel="Archived site">http://www.loc.gov/item/lcwaN0012178</mods:url></mods:location><mods:location><mods:physicalLocation>Library of Congress, Washington, D.C., 20540 USA</mods:physicalLocation><mods:physicalLocation authority="marcorg">dlc</mods:physicalLocation></mods:location><mods:accessCondition type="restrictionOnAccess">None</mods:accessCondition><mods:recordInfo><mods:recordContentSource authority="marcorg">dlc</mods:recordContentSource><mods:recordCreationDate encoding="iso8601">20180608</mods:recordCreationDate><mods:recordIdentifier source="dlc">lcwaN0012178</mods:recordIdentifier><mods:languageOfCataloging><mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm></mods:languageOfCataloging></mods:recordInfo></mods:mods>
+<mods:mods version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"><mods:identifier type="call_number" updated="yes">lcwaN0012179</mods:identifier><mods:identifier invalid="yes" type="database id">85779</mods:identifier><mods:titleInfo><mods:title>Sgt. Missick, A Line In The Sand - Blog</mods:title></mods:titleInfo><mods:language><mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm></mods:language><mods:physicalDescription><mods:form authority="marcform">electronic</mods:form><mods:internetMediaType>text/html</mods:internetMediaType><mods:digitalOrigin>born digital</mods:digitalOrigin></mods:physicalDescription><mods:targetAudience>general</mods:targetAudience><mods:typeOfResource>text</mods:typeOfResource><mods:genre authority="marcgt">web site</mods:genre><mods:originInfo><mods:place><mods:placeTerm type="text">United States</mods:placeTerm></mods:place></mods:originInfo><mods:abstract /><mods:relatedItem type="host"><mods:titleInfo><mods:title>Iraq War 2003 Web Archive</mods:title></mods:titleInfo></mods:relatedItem><mods:relatedItem type="host"><mods:titleInfo><mods:title>Research and Reference Services Division</mods:title></mods:titleInfo></mods:relatedItem><mods:relatedItem displayLabel="URL" type="constituent"><mods:identifier displayLabel="Access URL" type="uri">http://www.missick.com/warblog.htm</mods:identifier><mods:identifier type="database id">17461</mods:identifier><mods:location><mods:url displayLabel="thumbnail image">http://cdn.loc.gov/service/webcapture/project_1/thumbnails/lcwaS0017461.jpg</mods:url></mods:location></mods:relatedItem><mods:location><mods:url displayLabel="Archived site">http://www.loc.gov/item/lcwaN0012179</mods:url></mods:location><mods:location><mods:physicalLocation>Library of Congress, Washington, D.C., 20540 USA</mods:physicalLocation><mods:physicalLocation authority="marcorg">dlc</mods:physicalLocation></mods:location><mods:accessCondition type="restrictionOnAccess">None</mods:accessCondition><mods:recordInfo><mods:recordContentSource authority="marcorg">dlc</mods:recordContentSource><mods:recordCreationDate encoding="iso8601">20180608</mods:recordCreationDate><mods:recordIdentifier source="dlc">lcwaN0012179</mods:recordIdentifier><mods:languageOfCataloging><mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm></mods:languageOfCataloging></mods:recordInfo></mods:mods>
+<mods:mods version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"><mods:identifier type="call_number" updated="yes">lcwaN0012180</mods:identifier><mods:identifier invalid="yes" type="database id">85780</mods:identifier><mods:titleInfo><mods:title>OIF - Operation Iraqi Freedom - Blog</mods:title></mods:titleInfo><mods:language><mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm></mods:language><mods:physicalDescription><mods:form authority="marcform">electronic</mods:form><mods:internetMediaType>text/html</mods:internetMediaType><mods:digitalOrigin>born digital</mods:digitalOrigin></mods:physicalDescription><mods:targetAudience>general</mods:targetAudience><mods:typeOfResource>text</mods:typeOfResource><mods:genre authority="marcgt">web site</mods:genre><mods:originInfo><mods:place><mods:placeTerm type="text">United States</mods:placeTerm></mods:place></mods:originInfo><mods:abstract /><mods:relatedItem type="host"><mods:titleInfo><mods:title>Iraq War 2003 Web Archive</mods:title></mods:titleInfo></mods:relatedItem><mods:relatedItem type="host"><mods:titleInfo><mods:title>Research and Reference Services Division</mods:title></mods:titleInfo></mods:relatedItem><mods:relatedItem displayLabel="URL" type="constituent"><mods:identifier displayLabel="Access URL" type="uri">http://meadowsoif.blogspot.com/</mods:identifier><mods:identifier type="database id">17462</mods:identifier><mods:location><mods:url displayLabel="thumbnail image">http://cdn.loc.gov/service/webcapture/project_1/thumbnails/lcwaS0017462.jpg</mods:url></mods:location></mods:relatedItem><mods:location><mods:url displayLabel="Archived site">http://www.loc.gov/item/lcwaN0012180</mods:url></mods:location><mods:location><mods:physicalLocation>Library of Congress, Washington, D.C., 20540 USA</mods:physicalLocation><mods:physicalLocation authority="marcorg">dlc</mods:physicalLocation></mods:location><mods:accessCondition type="restrictionOnAccess">None</mods:accessCondition><mods:recordInfo><mods:recordContentSource authority="marcorg">dlc</mods:recordContentSource><mods:recordCreationDate encoding="iso8601">20180608</mods:recordCreationDate><mods:recordIdentifier source="dlc">lcwaN0012180</mods:recordIdentifier><mods:languageOfCataloging><mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm></mods:languageOfCataloging></mods:recordInfo></mods:mods>
+<mods:mods version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"><mods:identifier type="call_number" updated="yes">lcwaN0012184</mods:identifier><mods:identifier invalid="yes" type="database id">85784</mods:identifier><mods:titleInfo><mods:title>Doc in the Box - Blog</mods:title></mods:titleInfo><mods:language><mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm></mods:language><mods:physicalDescription><mods:form authority="marcform">electronic</mods:form><mods:internetMediaType>text/html</mods:internetMediaType><mods:digitalOrigin>born digital</mods:digitalOrigin></mods:physicalDescription><mods:targetAudience>general</mods:targetAudience><mods:typeOfResource>text</mods:typeOfResource><mods:genre authority="marcgt">web site</mods:genre><mods:originInfo><mods:place><mods:placeTerm type="text">United States</mods:placeTerm></mods:place></mods:originInfo><mods:abstract /><mods:relatedItem type="host"><mods:titleInfo><mods:title>Iraq War 2003 Web Archive</mods:title></mods:titleInfo></mods:relatedItem><mods:relatedItem type="host"><mods:titleInfo><mods:title>Research and Reference Services Division</mods:title></mods:titleInfo></mods:relatedItem><mods:relatedItem displayLabel="URL" type="constituent"><mods:identifier displayLabel="Access URL" type="uri">http://www.docinthebox.blogspot.com/</mods:identifier><mods:identifier type="database id">17466</mods:identifier><mods:location><mods:url displayLabel="thumbnail image">http://cdn.loc.gov/service/webcapture/project_1/thumbnails/lcwaS0017466.jpg</mods:url></mods:location></mods:relatedItem><mods:location><mods:url displayLabel="Archived site">http://www.loc.gov/item/lcwaN0012184</mods:url></mods:location><mods:location><mods:physicalLocation>Library of Congress, Washington, D.C., 20540 USA</mods:physicalLocation><mods:physicalLocation authority="marcorg">dlc</mods:physicalLocation></mods:location><mods:accessCondition type="restrictionOnAccess">None</mods:accessCondition><mods:recordInfo><mods:recordContentSource authority="marcorg">dlc</mods:recordContentSource><mods:recordCreationDate encoding="iso8601">20180608</mods:recordCreationDate><mods:recordIdentifier source="dlc">lcwaN0012184</mods:recordIdentifier><mods:languageOfCataloging><mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm></mods:languageOfCataloging></mods:recordInfo></mods:mods>
+<mods:mods version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"><mods:identifier type="call_number" updated="yes">lcwaN0012195</mods:identifier><mods:identifier invalid="yes" type="database id">85795</mods:identifier><mods:titleInfo><mods:title>Intel Dump - Blog</mods:title></mods:titleInfo><mods:language><mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm></mods:language><mods:physicalDescription><mods:form authority="marcform">electronic</mods:form><mods:internetMediaType>text/html</mods:internetMediaType><mods:digitalOrigin>born digital</mods:digitalOrigin></mods:physicalDescription><mods:targetAudience>general</mods:targetAudience><mods:typeOfResource>text</mods:typeOfResource><mods:genre authority="marcgt">web site</mods:genre><mods:originInfo><mods:place><mods:placeTerm type="text">United States</mods:placeTerm></mods:place></mods:originInfo><mods:abstract /><mods:relatedItem type="host"><mods:titleInfo><mods:title>Iraq War 2003 Web Archive</mods:title></mods:titleInfo></mods:relatedItem><mods:relatedItem type="host"><mods:titleInfo><mods:title>Research and Reference Services Division</mods:title></mods:titleInfo></mods:relatedItem><mods:relatedItem displayLabel="URL" type="constituent"><mods:identifier displayLabel="Access URL" type="uri">http://www.intel-dump.com/</mods:identifier><mods:identifier type="database id">17477</mods:identifier><mods:location><mods:url displayLabel="thumbnail image">http://cdn.loc.gov/service/webcapture/project_1/thumbnails/lcwaS0017477.jpg</mods:url></mods:location></mods:relatedItem><mods:location><mods:url displayLabel="Archived site">http://www.loc.gov/item/lcwaN0012195</mods:url></mods:location><mods:location><mods:physicalLocation>Library of Congress, Washington, D.C., 20540 USA</mods:physicalLocation><mods:physicalLocation authority="marcorg">dlc</mods:physicalLocation></mods:location><mods:accessCondition type="restrictionOnAccess">None</mods:accessCondition><mods:recordInfo><mods:recordContentSource authority="marcorg">dlc</mods:recordContentSource><mods:recordCreationDate encoding="iso8601">20180608</mods:recordCreationDate><mods:recordIdentifier source="dlc">lcwaN0012195</mods:recordIdentifier><mods:languageOfCataloging><mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm></mods:languageOfCataloging></mods:recordInfo></mods:mods>
+<mods:mods version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"><mods:identifier type="call_number" updated="yes">lcwaN0010932</mods:identifier><mods:identifier invalid="yes" type="database id">110933</mods:identifier><mods:titleInfo><mods:title>Official Campaign Web Site - Maithripala Sirisena</mods:title></mods:titleInfo><mods:language><mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm></mods:language><mods:language><mods:languageTerm authority="iso639-2b" type="code">sin</mods:languageTerm></mods:language><mods:language><mods:languageTerm authority="iso639-2b" type="code">tam</mods:languageTerm></mods:language><mods:physicalDescription><mods:form authority="marcform">electronic</mods:form><mods:internetMediaType>text/html</mods:internetMediaType><mods:digitalOrigin>born digital</mods:digitalOrigin></mods:physicalDescription><mods:targetAudience>general</mods:targetAudience><mods:typeOfResource>text</mods:typeOfResource><mods:genre authority="marcgt">web site</mods:genre><mods:originInfo><mods:place><mods:placeTerm type="text">Sri Lanka</mods:placeTerm></mods:place></mods:originInfo><mods:abstract /><mods:relatedItem type="host"><mods:titleInfo><mods:title>Sri Lankan Presidential and General Elections 2015 Web Archive</mods:title></mods:titleInfo></mods:relatedItem><mods:relatedItem type="host"><mods:titleInfo><mods:title>Asian Division</mods:title></mods:titleInfo></mods:relatedItem><mods:relatedItem displayLabel="URL" type="constituent"><mods:identifier displayLabel="Access URL" type="uri">http://www.maithripala.com/</mods:identifier><mods:identifier type="database id">15957</mods:identifier><mods:location><mods:url displayLabel="thumbnail image">http://cdn.loc.gov/service/webcapture/project_1/thumbnails/lcwaS0015957.jpg</mods:url></mods:location><mods:part type="scope"><mods:text displayLabel="domain">http://maithripala.com</mods:text><mods:text displayLabel="domain">http://twitter.com/twitterdev</mods:text><mods:text displayLabel="domain">http://www.youtube.com/watch?v=jZo3EOEqeh4</mods:text><mods:text displayLabel="domain">http://www.youtube.com/watch?v=gnKgAjeKSjc</mods:text><mods:text displayLabel="domain">http://www.youtube.com/watch?v=IWUSCa297sw</mods:text><mods:text displayLabel="domain">http://www.youtube.com/watch?v=DpHHmNO6ZbY</mods:text><mods:text displayLabel="domain">http://www.youtube.com/watch?v=nzdd--YfZrA</mods:text><mods:text displayLabel="domain">http://www.youtube.com/watch?v=Cdh15D-gCUM</mods:text><mods:text displayLabel="domain">http://www.youtube.com/watch?v=mLgeDk7Uiu0</mods:text><mods:text displayLabel="domain">http://www.youtube.com/watch?v=Vl3jqJj8ChM</mods:text><mods:text displayLabel="domain">http://www.youtube.com/watch?v=PjD1Vdolj4g</mods:text><mods:text displayLabel="domain">http://www.youtube.com/watch?v=opeJ7S690rs</mods:text><mods:text displayLabel="domain">http://www.youtube.com/watch?v=XX8xannMGJ0</mods:text><mods:text displayLabel="domain">http://www.youtube.com/watch?v=yXQwvDuqpW8</mods:text><mods:text displayLabel="domain">http://www.youtube.com/watch?v=xnyOydStuLk</mods:text><mods:text displayLabel="domain">http://www.youtube.com/watch?v=yIWWNRm9bFc</mods:text><mods:text displayLabel="domain">http://www.youtube.com/watch?v=qiEIZdZLUJQ</mods:text><mods:text displayLabel="domain">http://www.youtube.com/watch?v=fzYifPOWUDI</mods:text><mods:text displayLabel="domain">http://www.youtube.com/watch?v=crr6UhXR8zU</mods:text><mods:text displayLabel="domain">http://www.youtube.com/watch?v=ssE1Wt_NMgg</mods:text><mods:text displayLabel="domain">http://www.youtube.com/watch?v=yFkv9GxbO6k</mods:text><mods:text displayLabel="domain">http://www.facebook.com/profile.php?id=365053451326</mods:text></mods:part></mods:relatedItem><mods:location><mods:url displayLabel="Archived site">http://www.loc.gov/item/lcwaN0010932</mods:url></mods:location><mods:location><mods:physicalLocation>Library of Congress, Washington, D.C., 20540 USA</mods:physicalLocation><mods:physicalLocation authority="marcorg">dlc</mods:physicalLocation></mods:location><mods:accessCondition type="restrictionOnAccess">None</mods:accessCondition><mods:recordInfo><mods:recordContentSource authority="marcorg">dlc</mods:recordContentSource><mods:recordCreationDate encoding="iso8601">20180608</mods:recordCreationDate><mods:recordIdentifier source="dlc">lcwaN0010932</mods:recordIdentifier><mods:languageOfCataloging><mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm></mods:languageOfCataloging></mods:recordInfo></mods:mods>
+<mods:mods version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"><mods:identifier type="call_number" updated="yes">lcwaN0010933</mods:identifier><mods:identifier invalid="yes" type="database id">110934</mods:identifier><mods:titleInfo><mods:title>Tamil National Alliance (TNA) - Sri Lanka</mods:title></mods:titleInfo><mods:language><mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm></mods:language><mods:language><mods:languageTerm authority="iso639-2b" type="code">sin</mods:languageTerm></mods:language><mods:language><mods:languageTerm authority="iso639-2b" type="code">tam</mods:languageTerm></mods:language><mods:physicalDescription><mods:form authority="marcform">electronic</mods:form><mods:internetMediaType>text/html</mods:internetMediaType><mods:digitalOrigin>born digital</mods:digitalOrigin></mods:physicalDescription><mods:targetAudience>general</mods:targetAudience><mods:typeOfResource>text</mods:typeOfResource><mods:genre authority="marcgt">web site</mods:genre><mods:originInfo><mods:place><mods:placeTerm type="text">Sri Lanka</mods:placeTerm></mods:place></mods:originInfo><mods:abstract /><mods:relatedItem type="host"><mods:titleInfo><mods:title>Sri Lankan Presidential and General Elections 2015 Web Archive</mods:title></mods:titleInfo></mods:relatedItem><mods:relatedItem type="host"><mods:titleInfo><mods:title>Asian Division</mods:title></mods:titleInfo></mods:relatedItem><mods:relatedItem displayLabel="URL" type="constituent"><mods:identifier displayLabel="Access URL" type="uri">http://tnapolitics.org/?lang=en</mods:identifier><mods:identifier type="database id">15958</mods:identifier><mods:location><mods:url displayLabel="thumbnail image">http://cdn.loc.gov/service/webcapture/project_1/thumbnails/lcwaS0015958.jpg</mods:url></mods:location><mods:part type="scope"><mods:text displayLabel="domain">http://tnapolitics.org</mods:text></mods:part></mods:relatedItem><mods:location><mods:url displayLabel="Archived site">http://www.loc.gov/item/lcwaN0010933</mods:url></mods:location><mods:location><mods:physicalLocation>Library of Congress, Washington, D.C., 20540 USA</mods:physicalLocation><mods:physicalLocation authority="marcorg">dlc</mods:physicalLocation></mods:location><mods:accessCondition type="restrictionOnAccess">None</mods:accessCondition><mods:recordInfo><mods:recordContentSource authority="marcorg">dlc</mods:recordContentSource><mods:recordCreationDate encoding="iso8601">20180608</mods:recordCreationDate><mods:recordIdentifier source="dlc">lcwaN0010933</mods:recordIdentifier><mods:languageOfCataloging><mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm></mods:languageOfCataloging></mods:recordInfo></mods:mods>
+<mods:mods version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"><mods:identifier type="call_number" updated="yes">lcwaN0010936</mods:identifier><mods:identifier invalid="yes" type="database id">110937</mods:identifier><mods:titleInfo><mods:title>Rajiva Wijesinha Blog - Sri Lanka</mods:title></mods:titleInfo><mods:language><mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm></mods:language><mods:physicalDescription><mods:form authority="marcform">electronic</mods:form><mods:internetMediaType>text/html</mods:internetMediaType><mods:digitalOrigin>born digital</mods:digitalOrigin></mods:physicalDescription><mods:targetAudience>general</mods:targetAudience><mods:typeOfResource>text</mods:typeOfResource><mods:genre authority="marcgt">web site</mods:genre><mods:originInfo><mods:place><mods:placeTerm type="text">Sri Lanka</mods:placeTerm></mods:place></mods:originInfo><mods:abstract /><mods:relatedItem type="host"><mods:titleInfo><mods:title>Sri Lankan Presidential and General Elections 2015 Web Archive</mods:title></mods:titleInfo></mods:relatedItem><mods:relatedItem type="host"><mods:titleInfo><mods:title>Asian Division</mods:title></mods:titleInfo></mods:relatedItem><mods:relatedItem displayLabel="URL" type="constituent"><mods:identifier displayLabel="Access URL" type="uri">http://rajivawijesinha.wordpress.com/</mods:identifier><mods:identifier type="database id">15962</mods:identifier><mods:location><mods:url displayLabel="thumbnail image">http://cdn.loc.gov/service/webcapture/project_1/thumbnails/lcwaS0015962.jpg</mods:url></mods:location><mods:part type="scope"><mods:text displayLabel="domain">http://rajivawijesinha.wordpress.com</mods:text></mods:part></mods:relatedItem><mods:location><mods:url displayLabel="Archived site">http://www.loc.gov/item/lcwaN0010936</mods:url></mods:location><mods:location><mods:physicalLocation>Library of Congress, Washington, D.C., 20540 USA</mods:physicalLocation><mods:physicalLocation authority="marcorg">dlc</mods:physicalLocation></mods:location><mods:accessCondition type="restrictionOnAccess">None</mods:accessCondition><mods:recordInfo><mods:recordContentSource authority="marcorg">dlc</mods:recordContentSource><mods:recordCreationDate encoding="iso8601">20180608</mods:recordCreationDate><mods:recordIdentifier source="dlc">lcwaN0010936</mods:recordIdentifier><mods:languageOfCataloging><mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm></mods:languageOfCataloging></mods:recordInfo></mods:mods>
+<mods:mods version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"><mods:identifier type="call_number" updated="yes">lcwaN0010937</mods:identifier><mods:identifier invalid="yes" type="database id">110938</mods:identifier><mods:titleInfo><mods:title>Liberal Party of Sri Lanka</mods:title></mods:titleInfo><mods:language><mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm></mods:language><mods:language><mods:languageTerm authority="iso639-2b" type="code">sin</mods:languageTerm></mods:language><mods:language><mods:languageTerm authority="iso639-2b" type="code">tam</mods:languageTerm></mods:language><mods:physicalDescription><mods:form authority="marcform">electronic</mods:form><mods:internetMediaType>text/html</mods:internetMediaType><mods:digitalOrigin>born digital</mods:digitalOrigin></mods:physicalDescription><mods:targetAudience>general</mods:targetAudience><mods:typeOfResource>text</mods:typeOfResource><mods:genre authority="marcgt">web site</mods:genre><mods:originInfo><mods:place><mods:placeTerm type="text">Sri Lanka</mods:placeTerm></mods:place></mods:originInfo><mods:abstract /><mods:relatedItem type="host"><mods:titleInfo><mods:title>Sri Lankan Presidential and General Elections 2015 Web Archive</mods:title></mods:titleInfo></mods:relatedItem><mods:relatedItem type="host"><mods:titleInfo><mods:title>Asian Division</mods:title></mods:titleInfo></mods:relatedItem><mods:relatedItem displayLabel="URL" type="constituent"><mods:identifier displayLabel="Access URL" type="uri">http://www.liberalparty-srilanka.org/</mods:identifier><mods:identifier type="database id">15963</mods:identifier><mods:location><mods:url displayLabel="thumbnail image">http://cdn.loc.gov/service/webcapture/project_1/thumbnails/lcwaS0015963.jpg</mods:url></mods:location><mods:part type="scope"><mods:text displayLabel="domain">http://liberalparty-srilanka.org</mods:text></mods:part></mods:relatedItem><mods:location><mods:url displayLabel="Archived site">http://www.loc.gov/item/lcwaN0010937</mods:url></mods:location><mods:location><mods:physicalLocation>Library of Congress, Washington, D.C., 20540 USA</mods:physicalLocation><mods:physicalLocation authority="marcorg">dlc</mods:physicalLocation></mods:location><mods:accessCondition type="restrictionOnAccess">None</mods:accessCondition><mods:recordInfo><mods:recordContentSource authority="marcorg">dlc</mods:recordContentSource><mods:recordCreationDate encoding="iso8601">20180608</mods:recordCreationDate><mods:recordIdentifier source="dlc">lcwaN0010937</mods:recordIdentifier><mods:languageOfCataloging><mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm></mods:languageOfCataloging></mods:recordInfo></mods:mods>
+<mods:mods version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"><mods:identifier type="call_number" updated="yes">lcwaN0010940</mods:identifier><mods:identifier invalid="yes" type="database id">nan</mods:identifier><mods:titleInfo><mods:title>Sri Lanka Guardian</mods:title></mods:titleInfo><mods:language><mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm></mods:language><mods:language><mods:languageTerm authority="iso639-2b" type="code">sin</mods:languageTerm></mods:language><mods:physicalDescription><mods:form authority="marcform">electronic</mods:form><mods:internetMediaType>text/html</mods:internetMediaType><mods:digitalOrigin>born digital</mods:digitalOrigin></mods:physicalDescription><mods:targetAudience>general</mods:targetAudience><mods:typeOfResource>text</mods:typeOfResource><mods:genre authority="marcgt">web site</mods:genre><mods:originInfo><mods:place><mods:placeTerm type="text">Sri Lanka</mods:placeTerm></mods:place></mods:originInfo><mods:abstract /><mods:relatedItem type="host"><mods:titleInfo><mods:title>Sri Lankan Presidential and General Elections 2015 Web Archive</mods:title></mods:titleInfo></mods:relatedItem><mods:relatedItem type="host"><mods:titleInfo><mods:title>Asian Division</mods:title></mods:titleInfo></mods:relatedItem><mods:relatedItem displayLabel="URL" type="constituent"><mods:identifier displayLabel="Access URL" type="uri">http://www.slguardian.org/</mods:identifier><mods:identifier type="database id">15968</mods:identifier><mods:location><mods:url displayLabel="thumbnail image">http://cdn.loc.gov/service/webcapture/project_1/thumbnails/lcwaS0015968.jpg</mods:url></mods:location><mods:part type="scope"><mods:text displayLabel="domain">http://slguardian.org</mods:text><mods:text displayLabel="domain">http://lankaguardian.com</mods:text><mods:text displayLabel="domain">http://srilankaguardian.org</mods:text><mods:text displayLabel="domain">http://www.slguardian.org/si.</mods:text><mods:text displayLabel="domain">http://4.bp.blogspot.com/-tK-3poRn2Gg/VK4ZAh2vWNI/AAAAAAAAfeg/__Za7YbhPF0/s1600/MR-5.jpg</mods:text><mods:text displayLabel="domain">http://2.bp.blogspot.com/-aytya9Zmmxg/VK4ZBK-dl2I/AAAAAAAAfe0/PyNAUkJ51Co/s1600/MR-7.jpg</mods:text><mods:text displayLabel="domain">http://1.bp.blogspot.com/-fBR6LMFybnQ/VK4ZBbiRgJI/AAAAAAAAfew/LBe9Aae_VnY/s1600/MR-8.jpg</mods:text><mods:text displayLabel="domain">http://3.bp.blogspot.com/-7DdP0Oi9D0o/VK4ZCNgArfI/AAAAAAAAffE/12HGKpfF1YY/s1600/MR-9.jpg</mods:text><mods:text displayLabel="domain">http://1.bp.blogspot.com/-EgRnuOjBjxk/VK4ZAIKS1YI/AAAAAAAAfec/MPlzAJzLJ0s/s1600/MR-4.jpg</mods:text><mods:text displayLabel="domain">http://4.bp.blogspot.com/-iM1MyvGkcko/VK4Y_rle31I/AAAAAAAAfeU/QjSVi5vsOE4/s1600/MR-3.jpg</mods:text><mods:text displayLabel="domain">http://4.bp.blogspot.com/-FXA9KlwKZdk/VK4Y_oVM_mI/AAAAAAAAfeQ/0qs_ar5yJx8/s1600/MR-1.jpg</mods:text><mods:text displayLabel="domain">http://3.bp.blogspot.com/-6JccwShCCLM/VK4Y4YAGziI/AAAAAAAAfeI/zc7Mdk44bDE/s1600/MR-6.jpg</mods:text><mods:text displayLabel="domain">http://3.bp.blogspot.com/-4k-24rAuKkY/VK4Y_gtllzI/AAAAAAAAffU/aSk-BtQLN-0/s1600/MR-2.jpg</mods:text><mods:text displayLabel="domain">http://2.bp.blogspot.com/-ufVkm_CFrEM/VK2Nx5NiLkI/AAAAAAAAfb8/x63mtFNRlbQ/s1600/Kalpitiya.jpg</mods:text><mods:text displayLabel="domain">http://1.bp.blogspot.com/-dDGhAZMkxMQ/VK4VG8mUkuI/AAAAAAAAfcw/4cACgSMQ0Vw/s1600/bullet_mark.jpg</mods:text><mods:text displayLabel="domain">http://1.bp.blogspot.com/-Jjr7MO1cCjo/VK4ZCZOfhBI/AAAAAAAAfe8/yEJZkkLWUcU/s1600/MY3_LG_2015.jpg</mods:text><mods:text displayLabel="domain">http://3.bp.blogspot.com/-3-VZFF8pVOw/VK4ZDdF_2DI/AAAAAAAAffM/zaXmInmRNLE/s1600/MY3_LG_2015_2.jpg</mods:text></mods:part></mods:relatedItem><mods:relatedItem displayLabel="URL" type="constituent"><mods:identifier displayLabel="Access URL" type="uri">http://www.lankaguardian.com/</mods:identifier><mods:identifier type="database id">15967</mods:identifier><mods:location><mods:url displayLabel="thumbnail image">http://cdn.loc.gov/service/webcapture/project_1/thumbnails/lcwaS0015967.jpg</mods:url></mods:location><mods:part type="scope"><mods:text displayLabel="domain">http://lankaguardian.com</mods:text><mods:text displayLabel="domain">http://srilankaguardian.org</mods:text><mods:text displayLabel="domain">http://2.bp.blogspot.com/-aytya9Zmmxg/VK4ZBK-dl2I/AAAAAAAAfe0/PyNAUkJ51Co/s1600/MR-7.jpg</mods:text><mods:text displayLabel="domain">http://3.bp.blogspot.com/-7DdP0Oi9D0o/VK4ZCNgArfI/AAAAAAAAffE/12HGKpfF1YY/s1600/MR-9.jpg</mods:text><mods:text displayLabel="domain">http://1.bp.blogspot.com/-EgRnuOjBjxk/VK4ZAIKS1YI/AAAAAAAAfec/MPlzAJzLJ0s/s1600/MR-4.jpg</mods:text><mods:text displayLabel="domain">http://1.bp.blogspot.com/-fBR6LMFybnQ/VK4ZBbiRgJI/AAAAAAAAfew/LBe9Aae_VnY/s1600/MR-8.jpg</mods:text><mods:text displayLabel="domain">http://4.bp.blogspot.com/-tK-3poRn2Gg/VK4ZAh2vWNI/AAAAAAAAfeg/__Za7YbhPF0/s1600/MR-5.jpg</mods:text><mods:text displayLabel="domain">http://4.bp.blogspot.com/-iM1MyvGkcko/VK4Y_rle31I/AAAAAAAAfeU/QjSVi5vsOE4/s1600/MR-3.jpg</mods:text><mods:text displayLabel="domain">http://4.bp.blogspot.com/-FXA9KlwKZdk/VK4Y_oVM_mI/AAAAAAAAfeQ/0qs_ar5yJx8/s1600/MR-1.jpg</mods:text><mods:text displayLabel="domain">http://3.bp.blogspot.com/-6JccwShCCLM/VK4Y4YAGziI/AAAAAAAAfeI/zc7Mdk44bDE/s1600/MR-6.jpg</mods:text><mods:text displayLabel="domain">http://3.bp.blogspot.com/-4k-24rAuKkY/VK4Y_gtllzI/AAAAAAAAffU/aSk-BtQLN-0/s1600/MR-2.jpg</mods:text><mods:text displayLabel="domain">http://2.bp.blogspot.com/-ufVkm_CFrEM/VK2Nx5NiLkI/AAAAAAAAfb8/x63mtFNRlbQ/s1600/Kalpitiya.jpg</mods:text><mods:text displayLabel="domain">http://1.bp.blogspot.com/-dDGhAZMkxMQ/VK4VG8mUkuI/AAAAAAAAfcw/4cACgSMQ0Vw/s1600/bullet_mark.jpg</mods:text><mods:text displayLabel="domain">http://1.bp.blogspot.com/-Jjr7MO1cCjo/VK4ZCZOfhBI/AAAAAAAAfe8/yEJZkkLWUcU/s1600/MY3_LG_2015.jpg</mods:text><mods:text displayLabel="domain">http://3.bp.blogspot.com/-3-VZFF8pVOw/VK4ZDdF_2DI/AAAAAAAAffM/zaXmInmRNLE/s1600/MY3_LG_2015_2.jpg</mods:text></mods:part></mods:relatedItem><mods:location><mods:url displayLabel="Archived site">http://www.loc.gov/item/lcwaN0010940</mods:url></mods:location><mods:location><mods:physicalLocation>Library of Congress, Washington, D.C., 20540 USA</mods:physicalLocation><mods:physicalLocation authority="marcorg">dlc</mods:physicalLocation></mods:location><mods:accessCondition type="restrictionOnAccess">None</mods:accessCondition><mods:recordInfo><mods:recordContentSource authority="marcorg">dlc</mods:recordContentSource><mods:recordCreationDate encoding="iso8601">20180608</mods:recordCreationDate><mods:recordIdentifier source="dlc">lcwaN0010940</mods:recordIdentifier><mods:languageOfCataloging><mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm></mods:languageOfCataloging></mods:recordInfo></mods:mods>
+<mods:mods version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+    <mods:identifier type="call_number" updated="yes">lcwaN0010888</mods:identifier>
+    <mods:titleInfo>
+        <mods:title>Cute Overload! ;)</mods:title>
+    </mods:titleInfo>
+    <mods:name authority="naf" type="corporate">
+        <mods:namePart />
+    </mods:name>
+    <mods:language>
+        <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:language>
+    <mods:physicalDescription>
+        <mods:form authority="marcform">electronic</mods:form>
+        <mods:internetMediaType>text/html</mods:internetMediaType>
+        <mods:digitalOrigin>born digital</mods:digitalOrigin>
+    </mods:physicalDescription>
+    <mods:targetAudience>general</mods:targetAudience>
+    <mods:typeOfResource>text</mods:typeOfResource>
+    <mods:genre authority="marcgt">web site</mods:genre>
+    <mods:originInfo>
+        <mods:place>
+            <mods:placeTerm type="text">United States</mods:placeTerm>
+        </mods:place>
+    </mods:originInfo>
+    <mods:abstract>Cute Overload was a widely read blog created by Megan Frost featuring commentary, photos and videos related to various aspects of cuteness in animals. The site's hosts would take submissions and publish what they decided were the most cute pictures for their readers. Through this, they developed a set of "rules of cuteness," or reasons why something appears adorable, as well as a glossary of their specialized slang used in captions. The site won a range of awards and documents the way the web functions as a platform for sharing pictures of cute animals.
+    </mods:abstract>
+    <mods:subject authority="keyword">
+        <mods:topic />
+    </mods:subject>
+    <mods:subject authority="lcsh">
+        <mods:name authority="naf" type="corporate">
+            <mods:namePart />
+        </mods:name>
+    </mods:subject>
+    <mods:subject authority="lcsh">
+        <mods:topic>Animals</mods:topic>
+        <mods:genre>Pictorial works</mods:genre>
+    </mods:subject>
+    
+    
+    <mods:subject authority="lcwabt">
+        <mods:topic>Folklore and Mythology</mods:topic>
+    </mods:subject>
+    
+    <mods:relatedItem type="host">
+        <mods:titleInfo>
+            <mods:title>Web Cultures Web Archive</mods:title>
+        </mods:titleInfo>
+    </mods:relatedItem>
+    <mods:relatedItem type="host">
+        <mods:titleInfo>
+            <mods:title>American Folklife Center</mods:title>
+        </mods:titleInfo>
+    </mods:relatedItem>
+    <mods:relatedItem displayLabel="URL" type="constituent">
+        <mods:identifier displayLabel="Access URL" type="uri">http://cuteoverload.com/</mods:identifier>
+        <mods:identifier type="database id">15912</mods:identifier>
+        <mods:location>
+            <mods:url displayLabel="thumbnail image">http://cdn.loc.gov/service/webcapture/project_1/thumbnails/lcwaS0015912.jpg</mods:url>
+        </mods:location>
+        <mods:part type="scope">
+            <mods:text displayLabel="domain">http://cuteoverload.com</mods:text>
+            <mods:text displayLabel="domain">http://www.facebook.com/pages/Cute-Overload/106666030072</mods:text>
+            <mods:text displayLabel="domain">http://pinterest.com/source/cuteoverload.com/</mods:text>
+            <mods:text displayLabel="domain">http://www.twitter.com/cuteoverload</mods:text>
+        </mods:part>
+    </mods:relatedItem>
+    <mods:location>
+        <mods:url displayLabel="Archived site">http://www.loc.gov/item/lcwaN0010888</mods:url>
+    </mods:location>
+    <mods:location>
+        <mods:physicalLocation>Library of Congress, Washington, D.C., 20540 USA</mods:physicalLocation>
+        <mods:physicalLocation authority="marcorg">dlc</mods:physicalLocation>
+    </mods:location>
+    <mods:accessCondition type="restrictionOnAccess">None</mods:accessCondition>
+    <mods:recordInfo>
+        <mods:recordContentSource authority="marcorg">dlc</mods:recordContentSource>
+        <mods:recordCreationDate encoding="iso8601">20170418</mods:recordCreationDate>
+        <mods:recordIdentifier source="dlc">lcwaN0010888</mods:recordIdentifier>
+        <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+        </mods:languageOfCataloging>
+    </mods:recordInfo>
+</mods:mods>
+
+<mods:mods version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+    <mods:identifier type="call_number" updated="yes">lcwaN0010226</mods:identifier>
+    <mods:titleInfo>
+        <mods:title>Homepage | Meme Generator</mods:title>
+    </mods:titleInfo>
+    <mods:name authority="naf" type="corporate">
+        <mods:namePart />
+    </mods:name>
+    <mods:language>
+        <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:language>
+    <mods:physicalDescription>
+        <mods:form authority="marcform">electronic</mods:form>
+        <mods:internetMediaType>text/html</mods:internetMediaType>
+        <mods:digitalOrigin>born digital</mods:digitalOrigin>
+    </mods:physicalDescription>
+    <mods:targetAudience>general</mods:targetAudience>
+    <mods:typeOfResource>text</mods:typeOfResource>
+    <mods:genre authority="marcgt">web site</mods:genre>
+    <mods:originInfo>
+        <mods:place>
+            <mods:placeTerm type="text">United States</mods:placeTerm>
+        </mods:place>
+    </mods:originInfo>
+    <mods:abstract>Meme Generator allows users to create and share image macros (featuring a picture, or artwork, superimposed with text) in the style of popular internet memes. The site also serves as a searchable collection of user-created images.
+    </mods:abstract>
+    
+    <mods:subject authority="keyword">
+        <mods:topic>memes, digital culture, image macros</mods:topic>
+    </mods:subject>
+    <mods:subject authority="lcsh">
+        <mods:name authority="naf" type="corporate">
+            <mods:namePart />
+        </mods:name>
+    </mods:subject>
+    <mods:subject authority="lcsh">
+        <mods:topic>Memes</mods:topic>
+    </mods:subject>
+    
+    <mods:subject authority="lcwabt">
+        <mods:topic>Folklore and Mythology</mods:topic>
+    </mods:subject>
+    <mods:relatedItem type="host">
+        <mods:titleInfo>
+            <mods:title>Web Cultures Web Archive</mods:title>
+        </mods:titleInfo>
+    </mods:relatedItem>
+    <mods:relatedItem type="host">
+        <mods:titleInfo>
+            <mods:title>American Folklife Center</mods:title>
+        </mods:titleInfo>
+    </mods:relatedItem>
+    <mods:relatedItem displayLabel="URL" type="constituent">
+        <mods:identifier displayLabel="Access URL" type="uri">http://memegenerator.net/</mods:identifier>
+        <mods:identifier type="database id">15038</mods:identifier>
+        <mods:location>
+            <mods:url displayLabel="thumbnail image">http://cdn.loc.gov/service/webcapture/project_1/thumbnails/lcwaS0015038.jpg</mods:url>
+        </mods:location>
+        <mods:part type="scope">
+            <mods:text displayLabel="domain">http://www.facebook.com/pages/memegeneratornet/110738563941</mods:text>
+            <mods:text displayLabel="domain">http://twitter.com/memegenerator</mods:text>
+            <mods:text displayLabel="domain">http://stapler.ytmnd.com/</mods:text>
+            <mods:text displayLabel="domain">http://memegenerator.net</mods:text>
+        </mods:part>
+    </mods:relatedItem>
+    <mods:location>
+        <mods:url displayLabel="Archived site">http://www.loc.gov/item/lcwaN0010226</mods:url>
+    </mods:location>
+    <mods:location>
+        <mods:physicalLocation>Library of Congress, Washington, D.C., 20540 USA</mods:physicalLocation>
+        <mods:physicalLocation authority="marcorg">dlc</mods:physicalLocation>
+    </mods:location>
+    <mods:accessCondition type="restrictionOnAccess">None</mods:accessCondition>
+    <mods:recordInfo>
+        <mods:recordContentSource authority="marcorg">dlc</mods:recordContentSource>
+        <mods:recordCreationDate encoding="iso8601">20170418</mods:recordCreationDate>
+        <mods:recordIdentifier source="dlc">lcwaN0010226</mods:recordIdentifier>
+        <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+        </mods:languageOfCataloging>
+    </mods:recordInfo>
+</mods:mods>
+
+<mods:mods version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+    <mods:identifier type="call_number" updated="yes">lcwaN0009692</mods:identifier>
+    <mods:titleInfo>
+        <mods:title>Internet Meme Database | Know Your Meme</mods:title>
+    </mods:titleInfo>
+    <mods:name authority="naf" type="corporate">
+        <mods:namePart />
+    </mods:name>
+    <mods:language>
+        <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:language>
+    <mods:physicalDescription>
+        <mods:form authority="marcform">electronic</mods:form>
+        <mods:internetMediaType>text/html</mods:internetMediaType>
+        <mods:digitalOrigin>born digital</mods:digitalOrigin>
+    </mods:physicalDescription>
+    <mods:targetAudience>general</mods:targetAudience>
+    <mods:typeOfResource>text</mods:typeOfResource>
+    <mods:genre authority="marcgt">web site</mods:genre>
+    <mods:originInfo>
+        <mods:place>
+            <mods:placeTerm type="text">United States</mods:placeTerm>
+        </mods:place>
+    </mods:originInfo>
+    <mods:abstract>Know Your Meme (KYM) is a website and video series which uses wiki software to document various Internet memes and other online phenomena, such as viral videos, image macros, catchphrases, internet celebrities and more. It also investigates new and changing memes through research, as it commercializes on the culture. Originally produced by Rocketboom, the website was acquired in March 2011 by Cheezburger Network. Know Your Meme includes sections for confirmed, submitted, deadpooled (rejected or incompletely documented), researching, and popular memes.
+        </mods:abstract>
+    
+    <mods:subject authority="keyword">
+        <mods:topic>folklore, popular culture, legends</mods:topic>
+    </mods:subject>
+    <mods:subject authority="lcsh">
+        <mods:name authority="naf" type="corporate">
+            <mods:namePart />
+        </mods:name>
+    </mods:subject>
+    <mods:subject authority="lcsh">
+        <mods:topic>Memes</mods:topic></mods:subject>
+    
+    <mods:subject authority="lcwabt">
+        <mods:topic>Folklore and Mythology</mods:topic>
+    </mods:subject>
+    <mods:relatedItem type="host">
+        <mods:titleInfo>
+            <mods:title>Web Cultures Web Archive</mods:title>
+        </mods:titleInfo>
+    </mods:relatedItem>
+    <mods:relatedItem type="host">
+        <mods:titleInfo>
+            <mods:title>American Folklife Center</mods:title>
+        </mods:titleInfo>
+    </mods:relatedItem>
+    <mods:relatedItem displayLabel="URL" type="constituent">
+        <mods:identifier displayLabel="Access URL" type="uri">http://knowyourmeme.com/</mods:identifier>
+        <mods:identifier type="database id">14403</mods:identifier>
+        <mods:location>
+            <mods:url displayLabel="thumbnail image">http://cdn.loc.gov/service/webcapture/project_1/thumbnails/lcwaS0014403.jpg</mods:url>
+        </mods:location>
+        <mods:part type="scope">
+            <mods:text displayLabel="domain">http://facebook.com/knowyourmeme</mods:text>
+            <mods:text displayLabel="domain">http://knowyourmeme.com</mods:text>
+            <mods:text displayLabel="domain">http://tumblr.knowyourmeme.com</mods:text>
+            <mods:text displayLabel="domain">http://twitter.com/knowyourmeme</mods:text>
+            <mods:text displayLabel="domain">http://youtube.com/knowyourmeme</mods:text>
+        </mods:part>
+    </mods:relatedItem>
+    <mods:location>
+        <mods:url displayLabel="Archived site">http://www.loc.gov/item/lcwaN0009692</mods:url>
+    </mods:location>
+    <mods:location>
+        <mods:physicalLocation>Library of Congress, Washington, D.C., 20540 USA</mods:physicalLocation>
+        <mods:physicalLocation authority="marcorg">dlc</mods:physicalLocation>
+    </mods:location>
+    <mods:accessCondition type="restrictionOnAccess">None</mods:accessCondition>
+    <mods:recordInfo>
+        <mods:recordContentSource authority="marcorg">dlc</mods:recordContentSource>
+        <mods:recordCreationDate encoding="iso8601">20170418</mods:recordCreationDate>
+        <mods:recordIdentifier source="dlc">lcwaN0009692</mods:recordIdentifier>
+        <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+        </mods:languageOfCataloging>
+    </mods:recordInfo>
+</mods:mods>
+
+<mods:mods version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+    <mods:identifier type="call_number" updated="yes">lcwaN0009700</mods:identifier>
+    <mods:titleInfo>
+        <mods:title>YTMND: You're the man now dog!</mods:title>
+    </mods:titleInfo>
+    <mods:name authority="naf" type="corporate">
+        <mods:namePart />
+    </mods:name>
+    <mods:language>
+        <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:language>
+    <mods:physicalDescription>
+        <mods:form authority="marcform">electronic</mods:form>
+        <mods:internetMediaType>text/html</mods:internetMediaType>
+        <mods:digitalOrigin>born digital</mods:digitalOrigin>
+    </mods:physicalDescription>
+    <mods:targetAudience>general</mods:targetAudience>
+    <mods:typeOfResource>text</mods:typeOfResource>
+    <mods:genre authority="marcgt">web site</mods:genre>
+    <mods:originInfo>
+        <mods:place>
+            <mods:placeTerm type="text">United States</mods:placeTerm>
+        </mods:place>
+    </mods:originInfo>
+    <mods:abstract>ytmnd, an acronym for "You're the Man Now, Dog", is an online community centered on the creation of hosted memetic web pages (known within the community as fads, YTMNDs or sites) featuring a juxtaposition of an image (still or short animation) centered or tiled along with optional large zooming text and a looping sound file. Images and sound files used in YTMNDs are usually either created or edited by users. YTMND is generally a humor website, owing its tone and culture to the original YTMND and its early imitators. Other YTMNDs, however, are artistic or political.
+   </mods:abstract> 
+    <mods:subject authority="keyword">
+        <mods:topic>folklore, popular culture</mods:topic>
+    </mods:subject>
+    <mods:subject authority="lcsh">
+        <mods:name authority="naf" type="corporate">
+            <mods:namePart />
+        </mods:name>
+    </mods:subject>
+    <mods:subject authority="lcsh">
+        <mods:topic>Memes</mods:topic></mods:subject>
+    
+    <mods:subject authority="lcwabt">
+        <mods:topic>Folklore and Mythology</mods:topic>
+    </mods:subject>
+    <mods:relatedItem type="host">
+        <mods:titleInfo>
+            <mods:title>Web Cultures Web Archive</mods:title>
+        </mods:titleInfo>
+    </mods:relatedItem>
+    <mods:relatedItem type="host">
+        <mods:titleInfo>
+            <mods:title>American Folklife Center</mods:title>
+        </mods:titleInfo>
+    </mods:relatedItem>
+    <mods:relatedItem displayLabel="URL" type="constituent">
+        <mods:identifier displayLabel="Access URL" type="uri">http://ytmnd.com/</mods:identifier>
+        <mods:identifier type="database id">14411</mods:identifier>
+        <mods:location>
+            <mods:url displayLabel="thumbnail image">http://cdn.loc.gov/service/webcapture/project_1/thumbnails/lcwaS0014411.jpg</mods:url>
+        </mods:location>
+        <mods:part type="scope">
+            <mods:text displayLabel="domain">http://ytmnd.com</mods:text>
+            <mods:text displayLabel="domain">http://ytmnsfw.com</mods:text>
+        </mods:part>
+    </mods:relatedItem>
+    <mods:location>
+        <mods:url displayLabel="Archived site">http://www.loc.gov/item/lcwaN0009700</mods:url>
+    </mods:location>
+    <mods:location>
+        <mods:physicalLocation>Library of Congress, Washington, D.C., 20540 USA</mods:physicalLocation>
+        <mods:physicalLocation authority="marcorg">dlc</mods:physicalLocation>
+    </mods:location>
+    <mods:accessCondition type="restrictionOnAccess">None</mods:accessCondition>
+    <mods:recordInfo>
+        <mods:recordContentSource authority="marcorg">dlc</mods:recordContentSource>
+        <mods:recordCreationDate encoding="iso8601">20170418</mods:recordCreationDate>
+        <mods:recordIdentifier source="dlc">lcwaN0009700</mods:recordIdentifier>
+        <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+        </mods:languageOfCataloging>
+    </mods:recordInfo>
+</mods:mods>
+
+<mods:mods version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+    <mods:identifier type="call_number" updated="yes">lcwaN0010401</mods:identifier>
+    <mods:titleInfo>
+        <mods:title>Metafilter | Community Weblog</mods:title>
+    </mods:titleInfo>
+    <mods:name authority="naf" type="corporate">
+        <mods:namePart />
+    </mods:name>
+    <mods:language>
+        <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+    </mods:language>
+    <mods:physicalDescription>
+        <mods:form authority="marcform">electronic</mods:form>
+        <mods:internetMediaType>text/html</mods:internetMediaType>
+        <mods:digitalOrigin>born digital</mods:digitalOrigin>
+    </mods:physicalDescription>
+    <mods:targetAudience>general</mods:targetAudience>
+    <mods:typeOfResource>text</mods:typeOfResource>
+    <mods:genre authority="marcgt">web site</mods:genre>
+    <mods:originInfo>
+        <mods:place>
+            <mods:placeTerm type="text">United States</mods:placeTerm>
+        </mods:place>
+    </mods:originInfo>
+    <mods:abstract> MetaFilter is a general-interest community weblog, founded in 1999 and based in the United States, where a wide range of users submit and share links and commentary about the links they find. It is also a general discussion platform, the title suggests and intends it to be a place to filter out "the best of the web." The site presents a running commentary on a range of different issues that develop from everyday people.
+    </mods:abstract>
+    <mods:subject authority="keyword">
+        <mods:topic />
+    </mods:subject>
+    <mods:subject authority="lcsh">
+        <mods:name authority="naf" type="corporate">
+            <mods:namePart />
+        </mods:name>
+    </mods:subject>
+    <mods:subject authority="lcsh">
+        <mods:topic>Web portals</mods:topic></mods:subject>
+    
+    
+    <mods:subject authority="lcwabt">
+        <mods:topic>Folklore and Mythology</mods:topic>
+    </mods:subject>
+    
+    <mods:relatedItem type="host">
+        <mods:titleInfo>
+            <mods:title>Web Cultures Web Archive</mods:title>
+        </mods:titleInfo>
+    </mods:relatedItem>
+    <mods:relatedItem type="host">
+        <mods:titleInfo>
+            <mods:title>American Folklife Center</mods:title>
+        </mods:titleInfo>
+    </mods:relatedItem>
+    <mods:relatedItem displayLabel="URL" type="constituent">
+        <mods:identifier displayLabel="Access URL" type="uri">http://metafilter.com/</mods:identifier>
+        <mods:identifier type="database id">15229</mods:identifier>
+        <mods:location>
+            <mods:url displayLabel="thumbnail image">http://cdn.loc.gov/service/webcapture/project_1/thumbnails/lcwaS0015229.jpg</mods:url>
+        </mods:location>
+        <mods:part type="scope">
+            <mods:text displayLabel="domain">http://metafilter.com</mods:text>
+        </mods:part>
+    </mods:relatedItem>
+    <mods:location>
+        <mods:url displayLabel="Archived site">http://www.loc.gov/item/lcwaN0010401</mods:url>
+    </mods:location>
+    <mods:location>
+        <mods:physicalLocation>Library of Congress, Washington, D.C., 20540 USA</mods:physicalLocation>
+        <mods:physicalLocation authority="marcorg">dlc</mods:physicalLocation>
+    </mods:location>
+    <mods:accessCondition type="restrictionOnAccess">None</mods:accessCondition>
+    <mods:recordInfo>
+        <mods:recordContentSource authority="marcorg">dlc</mods:recordContentSource>
+        <mods:recordCreationDate encoding="iso8601">20170418</mods:recordCreationDate>
+        <mods:recordIdentifier source="dlc">lcwaN0010401</mods:recordIdentifier>
+        <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+        </mods:languageOfCataloging>
+    </mods:recordInfo>
+</mods:mods>
+
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+    <mods:identifier type="call_number" updated="yes">lcwaE0008846</mods:identifier>
+    <mods:titleInfo>
+        <mods:title>Official Campaign Web Site - Gregory John Orman</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+        <mods:namePart>Orman, Gregory John</mods:namePart>
+    </mods:name>
+    <mods:typeOfResource>text</mods:typeOfResource>
+    <mods:genre authority="marcgt">web site</mods:genre>
+        <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+    </mods:language>
+        <mods:physicalDescription>
+        <mods:form authority="marcform">electronic</mods:form>
+        <mods:internetMediaType>text/html</mods:internetMediaType>
+        <mods:digitalOrigin>born digital</mods:digitalOrigin>
+    </mods:physicalDescription>
+    <mods:targetAudience>general</mods:targetAudience>
+    <mods:subject authority="local">
+        <mods:name type="personal">
+            <mods:namePart>Orman, Gregory John</mods:namePart>
+        </mods:name>
+    </mods:subject>
+    <mods:subject authority="lcsh">
+        <mods:topic>Political candidates</mods:topic>
+        <mods:geographic>United States</mods:geographic>
+    </mods:subject>
+    <mods:subject authority="lcsh">
+        <mods:topic>Elections</mods:topic>
+        <mods:geographic>United States</mods:geographic>
+    </mods:subject>
+    <mods:subject authority="lcsh">
+        <mods:topic>Politics and government</mods:topic>
+        <mods:geographic>United States</mods:geographic>
+    </mods:subject>
+        <mods:subject authority="local" displayLabel="United States Elections, 2014">
+        <mods:topic>United States Elections, 2014</mods:topic>
+    </mods:subject>
+    <mods:subject authority="lcsh" displayLabel="United States Elections, 2014">
+                <mods:name type="corporate" authority="naf">
+                        <mods:namePart>United States. Congress. Senate</mods:namePart>
+                    </mods:name>
+            </mods:subject>
+    <mods:subject authority="local" displayLabel="United States Elections, 2014">
+        <mods:name type="corporate">
+            <mods:namePart>Independent candidates</mods:namePart>
+        </mods:name>
+    </mods:subject>
+    <mods:subject authority="lcsh" displayLabel="United States Elections, 2014">
+        <mods:geographic>Kansas</mods:geographic>
+    </mods:subject>
+            <mods:relatedItem type="host">
+        <mods:titleInfo>
+            <mods:title>United States Elections Web Archive</mods:title>
+        </mods:titleInfo>
+        <mods:location>
+            <mods:url>http://hdl.loc.gov/loc.natlib/collnatlib.lcwaE0000001</mods:url>
+        </mods:location>
+    </mods:relatedItem>
+    <mods:relatedItem type="host">
+        <mods:titleInfo>
+            <mods:title>Humanities and Social Sciences Division</mods:title>
+        </mods:titleInfo>
+    </mods:relatedItem>
+        <mods:relatedItem type="constituent" displayLabel="URL">
+        <mods:identifier type="uri" displayLabel="Access URL">http://www.ormanforsenate.com/</mods:identifier>
+                    <mods:identifier type="database id">109623</mods:identifier>
+                <mods:location>
+            <mods:url displayLabel="thumbnail image">http://cdn.loc.gov/service/webcapture/project_1/thumbnails/109623.jpg</mods:url>
+        </mods:location>
+                <mods:part type="scope">
+                        <mods:text displayLabel="domain">http://ormanforsenate.com</mods:text>
+                        <mods:text displayLabel="prefix">http://twitter.com/OrmanForSenate</mods:text>
+                    </mods:part>
+            </mods:relatedItem>
+        <mods:location>
+        <mods:url displayLabel="Archived site">http://www.loc.gov/item/lcwaE0008846</mods:url>
+    </mods:location>
+    <mods:location>
+        <mods:physicalLocation>Library of Congress, Washington D.C., 20540</mods:physicalLocation>
+        <mods:physicalLocation authority="marcorg">dlc</mods:physicalLocation>
+    </mods:location>
+    <mods:accessCondition type="restrictionOnAccess">None</mods:accessCondition>
+    <mods:recordInfo>
+        <mods:recordCreationDate encoding="iso8601">20150911</mods:recordCreationDate>
+        <mods:recordIdentifier source="dlc">lcwaE0008846</mods:recordIdentifier>
+        <mods:languageOfCataloging>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        </mods:languageOfCataloging>
+    </mods:recordInfo>
+</mods:mods>
+
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+    <mods:identifier type="call_number" updated="yes">lcwaE0008263</mods:identifier>
+    <mods:titleInfo>
+        <mods:title>Official Campaign Web Site - Joan Elizabeth Farr</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+        <mods:namePart>Farr, Joan Elizabeth</mods:namePart>
+    </mods:name>
+    <mods:typeOfResource>text</mods:typeOfResource>
+    <mods:genre authority="marcgt">web site</mods:genre>
+        <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+    </mods:language>
+        <mods:physicalDescription>
+        <mods:form authority="marcform">electronic</mods:form>
+        <mods:internetMediaType>text/html</mods:internetMediaType>
+        <mods:digitalOrigin>born digital</mods:digitalOrigin>
+    </mods:physicalDescription>
+    <mods:targetAudience>general</mods:targetAudience>
+    <mods:subject authority="local">
+        <mods:name type="personal">
+            <mods:namePart>Farr, Joan Elizabeth</mods:namePart>
+        </mods:name>
+    </mods:subject>
+    <mods:subject authority="lcsh">
+        <mods:topic>Political candidates</mods:topic>
+        <mods:geographic>United States</mods:geographic>
+    </mods:subject>
+    <mods:subject authority="lcsh">
+        <mods:topic>Elections</mods:topic>
+        <mods:geographic>United States</mods:geographic>
+    </mods:subject>
+    <mods:subject authority="lcsh">
+        <mods:topic>Politics and government</mods:topic>
+        <mods:geographic>United States</mods:geographic>
+    </mods:subject>
+        <mods:subject authority="local" displayLabel="United States Elections, 2014">
+        <mods:topic>United States Elections, 2014</mods:topic>
+    </mods:subject>
+    <mods:subject authority="lcsh" displayLabel="United States Elections, 2014">
+                <mods:name type="corporate" authority="naf">
+                        <mods:namePart>United States. Congress. Senate</mods:namePart>
+                    </mods:name>
+            </mods:subject>
+    <mods:subject authority="local" displayLabel="United States Elections, 2014">
+        <mods:name type="corporate">
+            <mods:namePart>Independent candidates</mods:namePart>
+        </mods:name>
+    </mods:subject>
+    <mods:subject authority="lcsh" displayLabel="United States Elections, 2014">
+        <mods:geographic>Oklahoma</mods:geographic>
+    </mods:subject>
+            <mods:relatedItem type="host">
+        <mods:titleInfo>
+            <mods:title>United States Elections Web Archive</mods:title>
+        </mods:titleInfo>
+        <mods:location>
+            <mods:url>http://hdl.loc.gov/loc.natlib/collnatlib.lcwaE0000001</mods:url>
+        </mods:location>
+    </mods:relatedItem>
+    <mods:relatedItem type="host">
+        <mods:titleInfo>
+            <mods:title>Humanities and Social Sciences Division</mods:title>
+        </mods:titleInfo>
+    </mods:relatedItem>
+        <mods:relatedItem type="constituent" displayLabel="URL">
+        <mods:identifier type="uri" displayLabel="Access URL">http://www.joanfarrforussenate.com/</mods:identifier>
+                    <mods:identifier type="database id">110477</mods:identifier>
+                <mods:location>
+            <mods:url displayLabel="thumbnail image">http://cdn.loc.gov/service/webcapture/project_1/thumbnails/110477.jpg</mods:url>
+        </mods:location>
+                <mods:part type="scope">
+                        <mods:text displayLabel="domain">http://joanfarrforussenate.com</mods:text>
+                    </mods:part>
+            </mods:relatedItem>
+        <mods:location>
+        <mods:url displayLabel="Archived site">http://www.loc.gov/item/lcwaE0008263</mods:url>
+    </mods:location>
+    <mods:location>
+        <mods:physicalLocation>Library of Congress, Washington D.C., 20540</mods:physicalLocation>
+        <mods:physicalLocation authority="marcorg">dlc</mods:physicalLocation>
+    </mods:location>
+    <mods:accessCondition type="restrictionOnAccess">None</mods:accessCondition>
+    <mods:recordInfo>
+        <mods:recordCreationDate encoding="iso8601">20150911</mods:recordCreationDate>
+        <mods:recordIdentifier source="dlc">lcwaE0008263</mods:recordIdentifier>
+        <mods:languageOfCataloging>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        </mods:languageOfCataloging>
+    </mods:recordInfo>
+</mods:mods>
+
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+    <mods:identifier type="call_number" updated="yes">lcwaE0008338</mods:identifier>
+    <mods:titleInfo>
+        <mods:title>Official Campaign Web Site - Danny Page</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+        <mods:namePart>Page, Danny</mods:namePart>
+    </mods:name>
+    <mods:typeOfResource>text</mods:typeOfResource>
+    <mods:genre authority="marcgt">web site</mods:genre>
+        <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+    </mods:language>
+        <mods:physicalDescription>
+        <mods:form authority="marcform">electronic</mods:form>
+        <mods:internetMediaType>text/html</mods:internetMediaType>
+        <mods:digitalOrigin>born digital</mods:digitalOrigin>
+    </mods:physicalDescription>
+    <mods:targetAudience>general</mods:targetAudience>
+    <mods:subject authority="local">
+        <mods:name type="personal">
+            <mods:namePart>Page, Danny</mods:namePart>
+        </mods:name>
+    </mods:subject>
+    <mods:subject authority="lcsh">
+        <mods:topic>Political candidates</mods:topic>
+        <mods:geographic>United States</mods:geographic>
+    </mods:subject>
+    <mods:subject authority="lcsh">
+        <mods:topic>Elections</mods:topic>
+        <mods:geographic>United States</mods:geographic>
+    </mods:subject>
+    <mods:subject authority="lcsh">
+        <mods:topic>Politics and government</mods:topic>
+        <mods:geographic>United States</mods:geographic>
+    </mods:subject>
+        <mods:subject authority="local" displayLabel="United States Elections, 2014">
+        <mods:topic>United States Elections, 2014</mods:topic>
+    </mods:subject>
+    <mods:subject authority="lcsh" displayLabel="United States Elections, 2014">
+                <mods:name type="corporate" authority="naf">
+                        <mods:namePart>United States. Congress. Senate</mods:namePart>
+                    </mods:name>
+            </mods:subject>
+    <mods:subject authority="local" displayLabel="United States Elections, 2014">
+        <mods:name type="corporate">
+            <mods:namePart>Independent candidates</mods:namePart>
+        </mods:name>
+    </mods:subject>
+    <mods:subject authority="lcsh" displayLabel="United States Elections, 2014">
+        <mods:geographic>Tennessee</mods:geographic>
+    </mods:subject>
+            <mods:relatedItem type="host">
+        <mods:titleInfo>
+            <mods:title>United States Elections Web Archive</mods:title>
+        </mods:titleInfo>
+        <mods:location>
+            <mods:url>http://hdl.loc.gov/loc.natlib/collnatlib.lcwaE0000001</mods:url>
+        </mods:location>
+    </mods:relatedItem>
+    <mods:relatedItem type="host">
+        <mods:titleInfo>
+            <mods:title>Humanities and Social Sciences Division</mods:title>
+        </mods:titleInfo>
+    </mods:relatedItem>
+        <mods:relatedItem type="constituent" displayLabel="URL">
+        <mods:identifier type="uri" displayLabel="Access URL">http://dannypageforsenate.com/</mods:identifier>
+                    <mods:identifier type="database id">109642</mods:identifier>
+                <mods:location>
+            <mods:url displayLabel="thumbnail image">http://cdn.loc.gov/service/webcapture/project_1/thumbnails/109642.jpg</mods:url>
+        </mods:location>
+                <mods:part type="scope">
+                        <mods:text displayLabel="domain">http://dannypageforsenate.com</mods:text>
+                        <mods:text displayLabel="prefix">http://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&amp;SESSION=9r-4cL57nw_tEibXuIWl5p1Q30jZo_gEu2tuwsAYZ1j2LZ6lZCzlUqRgqny&amp;dispatch=5885d80a13c0db1f8e263663d3faee8dbd0a2170b502f343d92a90377a9956d7</mods:text>
+                    </mods:part>
+            </mods:relatedItem>
+        <mods:location>
+        <mods:url displayLabel="Archived site">http://www.loc.gov/item/lcwaE0008338</mods:url>
+    </mods:location>
+    <mods:location>
+        <mods:physicalLocation>Library of Congress, Washington D.C., 20540</mods:physicalLocation>
+        <mods:physicalLocation authority="marcorg">dlc</mods:physicalLocation>
+    </mods:location>
+    <mods:accessCondition type="restrictionOnAccess">None</mods:accessCondition>
+    <mods:recordInfo>
+        <mods:recordCreationDate encoding="iso8601">20150911</mods:recordCreationDate>
+        <mods:recordIdentifier source="dlc">lcwaE0008338</mods:recordIdentifier>
+        <mods:languageOfCataloging>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        </mods:languageOfCataloging>
+    </mods:recordInfo>
+</mods:mods>
+
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+    <mods:identifier type="call_number" updated="yes">lcwaE0008918</mods:identifier>
+    <mods:titleInfo>
+        <mods:title>Official Campaign Web Site - C. Salekin</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+        <mods:namePart>Salekin, C.</mods:namePart>
+    </mods:name>
+    <mods:typeOfResource>text</mods:typeOfResource>
+    <mods:genre authority="marcgt">web site</mods:genre>
+        <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+    </mods:language>
+        <mods:physicalDescription>
+        <mods:form authority="marcform">electronic</mods:form>
+        <mods:internetMediaType>text/html</mods:internetMediaType>
+        <mods:digitalOrigin>born digital</mods:digitalOrigin>
+    </mods:physicalDescription>
+    <mods:targetAudience>general</mods:targetAudience>
+    <mods:subject authority="local">
+        <mods:name type="personal">
+            <mods:namePart>Salekin, C.</mods:namePart>
+        </mods:name>
+    </mods:subject>
+    <mods:subject authority="lcsh">
+        <mods:topic>Political candidates</mods:topic>
+        <mods:geographic>United States</mods:geographic>
+    </mods:subject>
+    <mods:subject authority="lcsh">
+        <mods:topic>Elections</mods:topic>
+        <mods:geographic>United States</mods:geographic>
+    </mods:subject>
+    <mods:subject authority="lcsh">
+        <mods:topic>Politics and government</mods:topic>
+        <mods:geographic>United States</mods:geographic>
+    </mods:subject>
+        <mods:subject authority="local" displayLabel="United States Elections, 2014">
+        <mods:topic>United States Elections, 2014</mods:topic>
+    </mods:subject>
+    <mods:subject authority="lcsh" displayLabel="United States Elections, 2014">
+                <mods:name type="corporate" authority="naf">
+                        <mods:namePart>United States. Congress. Senate</mods:namePart>
+                    </mods:name>
+            </mods:subject>
+    <mods:subject authority="local" displayLabel="United States Elections, 2014">
+        <mods:name type="corporate">
+            <mods:namePart>Independent candidates</mods:namePart>
+        </mods:name>
+    </mods:subject>
+    <mods:subject authority="lcsh" displayLabel="United States Elections, 2014">
+        <mods:geographic>Tennessee</mods:geographic>
+    </mods:subject>
+            <mods:relatedItem type="host">
+        <mods:titleInfo>
+            <mods:title>United States Elections Web Archive</mods:title>
+        </mods:titleInfo>
+        <mods:location>
+            <mods:url>http://hdl.loc.gov/loc.natlib/collnatlib.lcwaE0000001</mods:url>
+        </mods:location>
+    </mods:relatedItem>
+    <mods:relatedItem type="host">
+        <mods:titleInfo>
+            <mods:title>Humanities and Social Sciences Division</mods:title>
+        </mods:titleInfo>
+    </mods:relatedItem>
+        <mods:relatedItem type="constituent" displayLabel="URL">
+        <mods:identifier type="uri" displayLabel="Access URL">http://csalekin.com/</mods:identifier>
+                    <mods:identifier type="database id">109639</mods:identifier>
+                <mods:location>
+            <mods:url displayLabel="thumbnail image">http://cdn.loc.gov/service/webcapture/project_1/thumbnails/109639.jpg</mods:url>
+        </mods:location>
+                <mods:part type="scope">
+                        <mods:text displayLabel="domain">http://csalekin.com</mods:text>
+                    </mods:part>
+            </mods:relatedItem>
+        <mods:location>
+        <mods:url displayLabel="Archived site">http://www.loc.gov/item/lcwaE0008918</mods:url>
+    </mods:location>
+    <mods:location>
+        <mods:physicalLocation>Library of Congress, Washington D.C., 20540</mods:physicalLocation>
+        <mods:physicalLocation authority="marcorg">dlc</mods:physicalLocation>
+    </mods:location>
+    <mods:accessCondition type="restrictionOnAccess">None</mods:accessCondition>
+    <mods:recordInfo>
+        <mods:recordCreationDate encoding="iso8601">20150911</mods:recordCreationDate>
+        <mods:recordIdentifier source="dlc">lcwaE0008918</mods:recordIdentifier>
+        <mods:languageOfCataloging>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        </mods:languageOfCataloging>
+    </mods:recordInfo>
+</mods:mods>
+
+<mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+    <mods:identifier type="call_number" updated="yes">lcwaE0008001</mods:identifier>
+    <mods:titleInfo>
+        <mods:title>Official Campaign Web Site - Scott J. Barnhart</mods:title>
+    </mods:titleInfo>
+    <mods:name type="personal">
+        <mods:namePart>Barnhart, Scott J.</mods:namePart>
+    </mods:name>
+    <mods:typeOfResource>text</mods:typeOfResource>
+    <mods:genre authority="marcgt">web site</mods:genre>
+        <mods:language>
+        <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+    </mods:language>
+        <mods:physicalDescription>
+        <mods:form authority="marcform">electronic</mods:form>
+        <mods:internetMediaType>text/html</mods:internetMediaType>
+        <mods:digitalOrigin>born digital</mods:digitalOrigin>
+    </mods:physicalDescription>
+    <mods:targetAudience>general</mods:targetAudience>
+    <mods:subject authority="local">
+        <mods:name type="personal">
+            <mods:namePart>Barnhart, Scott J.</mods:namePart>
+        </mods:name>
+    </mods:subject>
+    <mods:subject authority="lcsh">
+        <mods:topic>Political candidates</mods:topic>
+        <mods:geographic>United States</mods:geographic>
+    </mods:subject>
+    <mods:subject authority="lcsh">
+        <mods:topic>Elections</mods:topic>
+        <mods:geographic>United States</mods:geographic>
+    </mods:subject>
+    <mods:subject authority="lcsh">
+        <mods:topic>Politics and government</mods:topic>
+        <mods:geographic>United States</mods:geographic>
+    </mods:subject>
+        <mods:subject authority="local" displayLabel="United States Elections, 2014">
+        <mods:topic>United States Elections, 2014</mods:topic>
+    </mods:subject>
+    <mods:subject authority="lcsh" displayLabel="United States Elections, 2014">
+                <mods:name type="corporate" authority="naf">
+                        <mods:namePart>United States. Congress. Senate</mods:namePart>
+                    </mods:name>
+            </mods:subject>
+    <mods:subject authority="local" displayLabel="United States Elections, 2014">
+        <mods:name type="corporate">
+            <mods:namePart>Independent candidates</mods:namePart>
+        </mods:name>
+    </mods:subject>
+    <mods:subject authority="lcsh" displayLabel="United States Elections, 2014">
+        <mods:geographic>Kansas</mods:geographic>
+    </mods:subject>
+            <mods:relatedItem type="host">
+        <mods:titleInfo>
+            <mods:title>United States Elections Web Archive</mods:title>
+        </mods:titleInfo>
+        <mods:location>
+            <mods:url>http://hdl.loc.gov/loc.natlib/collnatlib.lcwaE0000001</mods:url>
+        </mods:location>
+    </mods:relatedItem>
+    <mods:relatedItem type="host">
+        <mods:titleInfo>
+            <mods:title>Humanities and Social Sciences Division</mods:title>
+        </mods:titleInfo>
+    </mods:relatedItem>
+        <mods:relatedItem type="constituent" displayLabel="URL">
+        <mods:identifier type="uri" displayLabel="Access URL">http://democracy.com/scottbarnhart</mods:identifier>
+                    <mods:identifier type="database id">109927</mods:identifier>
+                <mods:location>
+            <mods:url displayLabel="thumbnail image">http://cdn.loc.gov/service/webcapture/project_1/thumbnails/109927.jpg</mods:url>
+        </mods:location>
+                <mods:part type="scope">
+                        <mods:text displayLabel="prefix">http://democracy.com/scottbarnhart</mods:text>
+                    </mods:part>
+            </mods:relatedItem>
+        <mods:location>
+        <mods:url displayLabel="Archived site">http://www.loc.gov/item/lcwaE0008001</mods:url>
+    </mods:location>
+    <mods:location>
+        <mods:physicalLocation>Library of Congress, Washington D.C., 20540</mods:physicalLocation>
+        <mods:physicalLocation authority="marcorg">dlc</mods:physicalLocation>
+    </mods:location>
+    <mods:accessCondition type="restrictionOnAccess">None</mods:accessCondition>
+    <mods:recordInfo>
+        <mods:recordCreationDate encoding="iso8601">20150911</mods:recordCreationDate>
+        <mods:recordIdentifier source="dlc">lcwaE0008001</mods:recordIdentifier>
+        <mods:languageOfCataloging>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+        </mods:languageOfCataloging>
+    </mods:recordInfo>
+</mods:mods>
+</modsCollection>
